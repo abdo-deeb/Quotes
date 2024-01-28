@@ -1,0 +1,8 @@
+#Main{
+    background-image:url(../img/peaceful-lake-minimal-4k-n6.jpg);
+    background-position: center center;
+    background-size:contain;
+}
+#Main h1{
+    font-size: 70px;
+}
